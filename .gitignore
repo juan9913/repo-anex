@@ -1,0 +1,5 @@
+venv_anex/
+__pycache__/
+*.pyc
+*.pyo
+*.csv
