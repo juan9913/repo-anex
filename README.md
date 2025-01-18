@@ -31,7 +31,8 @@ Ejecutar el archivo principal:
 python main.py
 ```
 ## Resultados
-## Resultados de Modelos
+
+se observa que con las variables usadas, el mejor modelo para estimar el precio de venta de las viviendas es el random forest
 
 | Modelo             | RMSE       |
 |--------------------|------------|
